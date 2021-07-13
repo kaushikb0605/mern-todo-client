@@ -48,6 +48,7 @@ function App() {
     setTodos([...todos,data]);
     setpopupActive(false);
     setNewTodo("");
+    window.location.reload();
   }
 
   return (
