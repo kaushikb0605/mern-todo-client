@@ -1,6 +1,6 @@
 import {useState,useEffect} from 'react';
 
-const API_BASE="https://mern-todolistbykb.herokuapp.com/";
+const API_BASE="https://mern-todolistbykb.herokuapp.com";
 
 function App() {
 
