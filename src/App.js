@@ -10,7 +10,7 @@ function App() {
 
   useEffect(()=>{
     GetTodos();
-    console.log(todos);
+    // console.log(todos);
   },[]);
 
   const GetTodos=()=>{
